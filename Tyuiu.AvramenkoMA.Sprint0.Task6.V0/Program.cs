@@ -11,7 +11,7 @@ namespace Tyuiu.AvramenkoMA.Sprint0.Task6.V0
             Console.WriteLine("Разность элементов массива = " + DataService.SubtractionArray(numsArray));
             Console.WriteLine("Произведение элементов массива = " + DataService.MultiplicationArray(numsArray));
 
-            Console.ReadKey();
+            Console.ReadKey():
         }
     }
 }
